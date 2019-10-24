@@ -1,5 +1,7 @@
 # Kubeflow
 Kubeflow is a free and open-source software platform developed by Google and first released in 2018. Kubeflow is designed to develop machine learning applications e.g. using TensorFlow and to deploy these to Kubernetes.
+For this example we will be using the following link:
+https://www.katacoda.com/kubeflow/scenarios/deploying-kubeflow
 
 # Steps
 # 1. Install kfctl
